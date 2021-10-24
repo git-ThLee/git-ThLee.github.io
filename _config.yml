@@ -111,7 +111,7 @@ author:
   name             : "Hoon-git"
   avatar           : "/assets/images/icone.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+
   bio              : "반갑습니다 :)"
   location         : "korea"
   email            : "dlxogns96@naver.com"
