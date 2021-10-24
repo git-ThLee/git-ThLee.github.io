@@ -16,12 +16,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "블로그에 오신걸 환영합니다 :)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+# 유저네임
+name                     : "Hoon-git"
+# 유저 네임 설명글
+description              : "Hoon-git의 깃허브 블로그"
+# 웹 사이트 도메인 이름을 입력합니다 (자신의 도메인 이름을 추가하지 않았지만 GitHub 페이지에서 할당 한 도메인 이름을 직접 사용하는 경우 생략 가능)
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
+# 블로그의 URL：(http://yourusername.github.io/repository-name)
+# 하위 "/repository-name"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,13 +110,15 @@ analytics:
 author:
   name             : "Hoon-git"
   avatar           : "/assets/images/icone.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "반갑습니다 :)"
   location         : "korea"
-  email            :
+  email            : "dlxogns96@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:dlxogns96@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -149,7 +157,17 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-
+# 메뉴 버튼
+navigation:
+  - name: home
+    url: /
+  - name: about
+    url: /about
+  - name: archive
+    url: /archive
+  - name: tags
+    url: /tags
+    
 # Reading Files
 include:
   - .htaccess
@@ -216,6 +234,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+# 페이지 당 기사 수
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
