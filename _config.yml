@@ -109,6 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Hoon-git"
+  # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "반갑습니다 :)"
   location         : "korea"
@@ -155,7 +156,17 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-
+# 메뉴 버튼
+navigation:
+  - name: home
+    url: /
+  - name: about
+    url: /about
+  - name: archive
+    url: /archive
+  - name: tags
+    url: /tags
+    
 # Reading Files
 include:
   - .htaccess
