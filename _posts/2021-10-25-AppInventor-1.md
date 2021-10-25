@@ -3,7 +3,7 @@ title:  "[앱인벤터] 첫번째 테스트"
 excerpt: "테스트용 "
 
 categories:
-  - app
+  - AppInventor
 tags:
   - [App, AppInventor, Block_Coding, Coding]
 
