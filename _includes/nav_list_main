@@ -25,14 +25,14 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "scratch" %}
+                    {% if category[0] == "Scratch" %}
                         <li><a href="/categories/scratch" class="">스크래치 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "entry" %}
+                    {% if category[0] == "Entry" %}
                         <li><a href="/categories/entry" class="">엔트리 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
