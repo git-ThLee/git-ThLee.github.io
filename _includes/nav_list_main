@@ -18,21 +18,21 @@
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
-                    {% if category[0] == "앱인벤터" %}
+                    {% if category[0] == "app" %}
                         <li><a href="/categories/appinventor" class="">앱인벤터 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "스크래치" %}
+                    {% if category[0] == "scratch" %}
                         <li><a href="/categories/scratch" class="">스크래치 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "엔트리" %}
+                    {% if category[0] == "entry" %}
                         <li><a href="/categories/entry" class="">엔트리 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
