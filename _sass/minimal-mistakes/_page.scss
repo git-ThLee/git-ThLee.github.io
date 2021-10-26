@@ -315,9 +315,10 @@
      ========================================================================== */
   
   .page__taxonomy {
-    .sep {
-      display: none;
-    }
+    margin-top: -10px;
+  .sep {
+    display: inline;
+  }
   
     strong {
       margin-right: 10px;
