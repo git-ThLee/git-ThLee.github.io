@@ -15,7 +15,7 @@ last_modified_at: 2021-10-26
 ---
 
 # 1. 앱인벤터란
-앱 인벤터는 MIT가 관리하는 오픈소스 앱메이커로써, 사용하려면 **구글 계정이 필요하다**.
+앱 인벤터는 MIT가 관리하는 오픈소스 앱메이커로써, 사용하려면 **구글 계정이 필요하다**.  
 여러분이 자주보는 유튜브 계정도 **구글 계정**이에요.
 
 ## 장점
@@ -34,12 +34,12 @@ last_modified_at: 2021-10-26
 ## 앱인벤터 사이트 접속하기
 저는 주로 Chrome을 사용하고, 찾아보니까 Internet Explorer쓰면 팅긴다고 해요. 물론 요즘엔 많은 분들이 인터넷익스플로러 안쓰죠 ㅎㅎ
 
-![스크린샷(7)](https://user-images.githubusercontent.com/55564114/139380751-5d4bbbfe-19c1-48a7-8003-3957cb9f7517.png){: width="50%" height="50%"}
+![스크린샷(7)](https://user-images.githubusercontent.com/55564114/139380751-5d4bbbfe-19c1-48a7-8003-3957cb9f7517.png)
 
-제가 포스팅하는 날짜 기준으로 좌측 상단에 있는 **Create Apps!** 클릭해주세요. 
+제가 포스팅하는 날짜 기준으로 좌측 상단에 있는 **Create Apps!** 클릭해주세요.  
 날짜 : 2021 - 10 - 29 / 나중엔 달라질 수 있어서 적어봐요 ㅎ
 
-![스크린샷(8)](https://user-images.githubusercontent.com/55564114/139381481-f73e0b64-83c2-468e-a230-7dade0ec9616.png){: width="50%" height="50%"}
+![스크린샷(8)](https://user-images.githubusercontent.com/55564114/139381481-f73e0b64-83c2-468e-a230-7dade0ec9616.png){: width="70%" height="70%"}
 
 **Create Apps!** 을 클릭했을 때, 구글 계정이 로그인 안되어 있으면 구글계정으로 로그인해주시면 되요.
 
