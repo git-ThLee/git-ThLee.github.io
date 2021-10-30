@@ -1,11 +1,11 @@
 ---
-title:  "[앱인벤터] 블루투스 메신저"
-excerpt: "블루투스를 이용한 메신저 만들어보기 "
+title:  "[앱인벤터] 만보기 만들기"
+excerpt: "만보기를 이용하여 간단하게 만들어보기 "
 
 categories:
   - AppInventor
 tags:
-  - [만보기]]
+  - [만보기]
 
 toc: true
 toc_sticky: true
