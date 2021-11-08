@@ -29,7 +29,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 # 블로그의 URL：(http://yourusername.github.io/repository-name)
 # 하위 "/repository-name"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hoon-git/hoon-git.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hoon-git/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
