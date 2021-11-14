@@ -70,11 +70,13 @@ last_modified_at: 2021-11-14
 
 1. 우측에 연필 🖍️ 모양을 클릭해서 수정모드 들어가기
 2. ctrl + f 을 눌러서 **"url"** 검색 
-3. url : http://UserName.github.io 으로 변경하기
+3. url : http://UserName.github.io 으로 변경하기  
   사실 전 이 부분 안넣어도 잘 되더라구여? 그래서 전 비워져 있어요. 😎  
 4. 그 외, title , email 등등 하나씩 수정해보시면서 어느부분이 바뀌는지 확인해보세요.
 
-
+  
+    
+    
 ---
 
 
