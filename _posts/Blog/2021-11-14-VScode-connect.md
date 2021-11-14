@@ -55,8 +55,9 @@ last_modified_at: 2021-11-14
 - Open : 현재 창에서 열기  
 - Open in New Window : 새창에서 열기  
 
+---
 
-# 4. 테스트 ) _config.yml에서 title 변경해보기.
+# 4. 테스트 : _config.yml에서 title 변경해보기.
 
 1. _config.yml 열기 (최상위 폴더)
 2. title : 에서 "" 안에 수정하기. 
@@ -64,7 +65,8 @@ last_modified_at: 2021-11-14
 4. 아래 그림 처럼 따라 클릭
 5. "모두 저장 및 커밋" or "스테이징된 변경 사항 커밋" 클릭
 6. 커밋메시지 작성
-7. 
+7. 변경 내용 동기화 클릭 (이거 안하면 블로그 안바뀜)
+8. 블로그 들어가서 변경사항 확인(길게는 몇분이 걸릴수도 있어요.)
 
 ![스크린샷(58)](https://user-images.githubusercontent.com/55564114/141675808-a8c83dbd-9b8b-439c-aac6-f33c9da4c88a.png)  
 
@@ -74,15 +76,20 @@ last_modified_at: 2021-11-14
 
 ![스크린샷(61)](https://user-images.githubusercontent.com/55564114/141675926-c05fbdb5-8a85-4ae9-b5d3-b7faee7c8c75.png)  
 
+![스크린샷(63)](https://user-images.githubusercontent.com/55564114/141676166-36de115a-022e-40db-84c6-086f0056524e.png)  
 
-
-
+---
 
 ### * 커밋이란 
 
 ![스크린샷(62)](https://user-images.githubusercontent.com/55564114/141676087-adda0eb7-7798-4edb-b0de-9f98cb00ab0b.png)  
 
-깃허브에서 박스가 있는 부분에 여러분이 쓴 커밋메시지가 들어가게 되요.
+**깃허브에서 박스가 있는 부분에 여러분이 쓴 커밋메시지가 들어가게 되요.**
+
+---
+
+
+
 
 
 ---
