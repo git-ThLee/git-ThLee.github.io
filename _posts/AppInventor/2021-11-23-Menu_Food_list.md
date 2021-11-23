@@ -5,7 +5,7 @@ excerpt: "온라인 메뉴판을 만들어보자  "
 categories:
   - AppInventor
 tags:
-  - [Food], Menu]
+  - [Food, Menu]
 
 toc: true
 toc_sticky: true
