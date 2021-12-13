@@ -5,7 +5,7 @@ excerpt: "로그인 페이지 만들기 "
 categories:
   - AppInventor
 tags:
-  - [Login, Sign In, Sign Up]]
+  - [Login, Sign In, Sign Up]
 
 toc: true
 toc_sticky: true
