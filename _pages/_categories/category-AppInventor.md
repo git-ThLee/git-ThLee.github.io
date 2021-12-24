@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.AppInventor_dev %}
+{% assign posts = site.categories.AppInventor %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
