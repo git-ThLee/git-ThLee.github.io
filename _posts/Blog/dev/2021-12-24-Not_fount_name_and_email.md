@@ -28,16 +28,16 @@ last_modified_at: 2021-12-24
 
 제가 해결한 방법대로 알려드릴게요.  
 
-## 2.1 ) Git Bash 를 켠다
+## ① Git Bash 를 켠다
 
 작업표시줄에서 "Git" 만 처도 나올거에요.  
 안나오면 Git 부터 다시 설치해주세요.  
 
-## 2.2 ) $ git config --global user.name "Your Name" 입력
+## ② $ git config --global user.name "Your Name" 입력
 
 ex) $ git config --global user.name "Hoon.git"  
 
-## 2.3 ) $ git config --global user.email you@example.com 입력
+## ③ $ git config --global user.email you@example.com 입력
 
 ex) $ git config --global user.email you@naver.com 
   
@@ -50,7 +50,7 @@ ex) $ git config --global user.email you@naver.com
     email = you@naver.com
   ```
 
-## 2.4 ) Code를 재실행하고 업로드를 실행한다
+## ④ Code를 재실행하고 업로드를 실행한다
 
 저는 위와 같이 하니까 해결되더라구여 ㅎㅎ  
 
