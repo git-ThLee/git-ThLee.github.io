@@ -19,7 +19,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "AppInventor_dev" %}
-                        <li><a href="/categories/appinventor" class="">앱인벤터 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/appinventor" class="">작품 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -28,7 +28,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Scratch_dev" %}
-                        <li><a href="/categories/scratch" class="">개발({{category[1].size}})</a></li>
+                        <li><a href="/categories/scratch" class="">작품 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
