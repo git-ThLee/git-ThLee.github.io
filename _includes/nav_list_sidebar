@@ -37,7 +37,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Scratch_dev" %}
-                        <li><a href="/categories/scratch" class="">작품 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/scratch_dev" class="">작품 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Scratch_block" %}
+                        <li><a href="/categories/scratch_block" class="">블록설명 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
