@@ -1,7 +1,7 @@
 ---
 title: "앱인벤터"
 layout: archive
-permalink: categories/appinventor_dev
+permalink: categories/appinventor
 author_profile: true
 sidebar_main: true
 ---
