@@ -35,12 +35,16 @@ last_modified_at: 2021-12-24
 
 ## ② $ git config --global user.name "Your Name" 입력
 
+```
 ex) $ git config --global user.name "Hoon.git"  
+```  
 
 ## ③ $ git config --global user.email you@example.com 입력
 
+```
 ex) $ git config --global user.email you@naver.com 
-  
+```  
+ 
   2가지를 입력하면 ~/.gitconfig 에 내용이 추가되요.  
 
   ```
