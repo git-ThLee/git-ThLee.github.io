@@ -14,13 +14,15 @@ date: 2021-12-24
 last_modified_at: 2021-12-24
 ---
 
-# 1. Git에서 user name 및 user email 을 구성 하세요
+# 1. 문제 : Git에서 user name 및 user email 을 구성 하세요
 
 카페에서 노트북으로 블로그를 수정할랬더니 뜨더라구요ㅎㅎ  
 참고로 노트북으로는 Code부터 Git까지 처음부터 설치를 했거든요.  
   
 설치를 하다고 업로드 할려니까  
 **Git에서 user name 및 user email 을 구성 하세요** 발생하더라구여.
+
+---
 
 # 2. 해결방법
 
@@ -49,6 +51,8 @@ ex) $ git config --global user.email you@naver.com
   ```
 
 ## 2.4 ) Code를 재실행하고 업로드를 실행한다
+
+저는 위와 같이 하니까 해결되더라구여 ㅎㅎ  
 
 ---
 
