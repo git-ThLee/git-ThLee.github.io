@@ -3,7 +3,7 @@ title:  "[앱인벤터] 로또 번호 생성기 "
 excerpt: "로또 번호 생성기를 만들어보자  "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [Lotto]
 

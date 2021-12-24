@@ -3,7 +3,7 @@ title:  "[앱인벤터] 펀치 속도 측정해보기 "
 excerpt: "펀치 속도 측정해보기  "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [Speed]
 

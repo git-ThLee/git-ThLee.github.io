@@ -3,7 +3,7 @@ title:  "[스크래치] 숫자 픽셀 표현하기"
 excerpt: "숫자 픽셀로 표현을 해보기"
 
 categories:
-  - Scratch
+  - Scratch_dev
 tags:
   - [Scratch, Animation]
 

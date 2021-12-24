@@ -3,7 +3,7 @@ title:  "[스크래치] 돌다리도 두들겨 보고 건너라 게임"
 excerpt: "돌다리도 두들겨 보고 건너라 게임~"
 
 categories:
-  - Scratch
+  - Scratch_dev
 tags:
   - [Scratch, Animation]
 

@@ -3,7 +3,7 @@ title:  "[앱인벤터] 랜덤 단어 만들기"
 excerpt: "리스트를 이용해서 두 자리 단어를 만들어보자.  "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [랜덤, 리스트]
 

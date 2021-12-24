@@ -3,7 +3,7 @@ title:  "[앱인벤터] 간단 온라인 메뉴판 만들기"
 excerpt: "온라인 메뉴판을 만들어보자  "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [Food, Menu]
 

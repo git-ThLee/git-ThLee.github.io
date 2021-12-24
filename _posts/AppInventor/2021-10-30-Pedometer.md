@@ -3,7 +3,7 @@ title:  "[앱인벤터] 만보기 만들기"
 excerpt: "만보기를 이용하여 간단하게 만들어보기 "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [만보기]
 

@@ -3,7 +3,7 @@ title:  "[스크래치] 블록 채우기 퀴즈 만들기"
 excerpt: "작은 블록으로 화면을 다양한 애니메이션으로 채워보자"
 
 categories:
-  - Scratch
+  - Scratch_dev
 tags:
   - [Scratch, Animation]
 

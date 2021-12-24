@@ -3,7 +3,7 @@ title:  "[앱인벤터] 시작하기"
 excerpt: "앱인벤터를 시작해보자 "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [블록코딩, 시작, 회원가입]
 

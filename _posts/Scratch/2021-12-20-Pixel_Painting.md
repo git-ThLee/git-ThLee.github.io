@@ -3,7 +3,7 @@ title:  "[스크래치] 픽셀 그림판 만들기"
 excerpt: "픽셀 그림판 만들기"
 
 categories:
-  - Scratch
+  - Scratch_dev
 tags:
   - [Scratch]
 

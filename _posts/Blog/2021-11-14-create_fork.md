@@ -3,7 +3,7 @@ title:  "[블로그] 초보자도 쉽게 테마를 적용해서 깃허브 블로
 excerpt: "테마를 적용하여 쉽게 깃허브 블로그를 만들어 봅시다."
 
 categories:
-  - Blog
+  - Blog_dev
 tags:
   - [Blog ]
 

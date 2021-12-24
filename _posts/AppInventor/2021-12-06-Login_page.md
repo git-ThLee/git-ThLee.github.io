@@ -3,7 +3,7 @@ title:  "[앱인벤터] 로그인 페이지 만들기 "
 excerpt: "로그인 페이지 만들기 "
 
 categories:
-  - AppInventor
+  - AppInventor_dev
 tags:
   - [Login, Sign In, Sign Up]
 

@@ -3,7 +3,7 @@ title:  "[블로그] 깃허브 와 비쥬얼스튜디오 연동하기"
 excerpt: "깃허브 블로그를 비쥬얼스튜디오에서 사용하기"
 
 categories:
-  - Blog
+  - Blog_dev
 tags:
   - [Blog , VS , VSC]
 
