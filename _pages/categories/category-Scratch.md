@@ -1,7 +1,7 @@
 ---
 title: "스크래치"
 layout: archive
-permalink: _categories/scratch
+permalink: categories/scratch
 author_profile: true
 sidebar_main: true
 ---
