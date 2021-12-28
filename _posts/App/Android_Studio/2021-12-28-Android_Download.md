@@ -1,6 +1,6 @@
 ---
-title:  "[안드로이드스튜디오] 설치"
-excerpt: "설치 "
+title:  "[안드로이드스튜디오] Window 10 안드로이드 스튜디오 설치하기"
+excerpt: "Window10 Android Studio Installation"
 
 categories:
   - Android_Studio
@@ -16,6 +16,7 @@ last_modified_at: 2021-12-28
 
 # 안드로이드스튜디오 설치하기
 
+OS : Window 10  
 날짜 : 2021 - 12 - 28  
 저도 오랜만에 안드로이드 스튜디오를 설치해보네요.  
 다른 분들꺼 보고 설치를 할려다 보면 날짜가 많이 지나서 종종 다른 부분이 있더라구여.  
