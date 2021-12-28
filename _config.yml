@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "훈깃 🌙"
-  avatar           : "/assets/images/my_face_26.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_image_26.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
 
   bio              : "반갑습니다 :)"
