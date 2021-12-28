@@ -47,6 +47,23 @@
                 {% endfor %}
             </ul>
 
+        <span class="nav__sub-title">앱 개발</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Flutter" %}
+                        <li><a href="/categories/flutter" class="">Flutter ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Android_Studio" %}
+                        <li><a href="/categories/android_studio" class="">Android ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">블로그</span>
             <ul>
                 {% for category in site.categories %}
