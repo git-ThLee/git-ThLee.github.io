@@ -90,7 +90,9 @@ OS : Window 10
 
 # 4. JAVA 설치 하셨나요? 
 
-
+혹시 JAVA를 설치 안하신 분들은 제 블로그에 JAVA 설치하는 포스팅 해놨습니다.  
+  
+  [JAVA 설치](https://hoon-git.github.io/android_studio/JAVA_Download/) 감사합니다.  
 
 ---
 
