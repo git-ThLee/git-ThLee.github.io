@@ -43,7 +43,7 @@ last_modified_at: 2021-12-28
     
   ![스크린샷(18)](https://user-images.githubusercontent.com/55564114/147538820-cc800109-1dfb-4276-b5bf-8ba005baf2cd.png)  
 
-# 3. 설치 이후 
+# 3. 세팅하기 
 
 ![스크린샷(19)](https://user-images.githubusercontent.com/55564114/147538920-c8d83af9-4eb8-4cf6-8ed6-a28a3501b621.png)  
   
@@ -52,7 +52,34 @@ last_modified_at: 2021-12-28
   ○ Do not import settings 
     - 처음 설치하시는 분(처음 세팅하기) 체크  
   
+  ![스크린샷(20)](https://user-images.githubusercontent.com/55564114/147539332-92e918a8-90f7-4ede-b64e-d9596d6c9084.png)  
+    
+  ![스크린샷(21)](https://user-images.githubusercontent.com/55564114/147539436-ce2b83e6-21dc-4c3e-85d5-e32de07f39a6.png)  
+    
+  ![스크린샷(22)](https://user-images.githubusercontent.com/55564114/147539556-68ee396e-af0a-4526-87f8-7c5061e23826.png)  
+    
+    ○ Standard 
+    ○ Custom
+      
+    저는 자세히 몰라서 **Standard** 로 했어요. ㅎㅎ  
+
+  ![스크린샷(23)](https://user-images.githubusercontent.com/55564114/147539858-1052d704-0c06-439e-9025-396a9d344cc6.png)  
+
+    테마를 선택해주세요.  
+
+  ![스크린샷(24)](https://user-images.githubusercontent.com/55564114/147539933-926d5d08-dbc6-42bd-8f89-83e529124715.png)  
+    
+    
+  ![스크린샷(25)](https://user-images.githubusercontent.com/55564114/147540350-b86710f1-57b1-4c8b-9c27-7b132dff8d5a.png)  
+
+ 
+# 4. JAVA 설치 하셨나요? 
+
+
+
   
+
+
 
 
 
