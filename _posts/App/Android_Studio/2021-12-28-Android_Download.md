@@ -27,7 +27,7 @@ last_modified_at: 2021-12-28
 
 [안드로이드스튜디오 다운로드](https://developer.android.com/studio?hl=ko&gclsrc=aw.ds&gclid=Cj0KCQiA5aWOBhDMARIsAIXLlkfNsiPc40IpXHsHj5fsZBBCvMY7TaiefOv3gNbFiGZOhf7XdquHJJkaAr8MEALw_wcB)를 클릭해주세요.  
   
-  ![스크린샷(11)](https://user-images.githubusercontent.com/55564114/147537601-c5e2ea95-1b69-485f-9fc3-7996bfb029ae.png){: height="300"}{: .center}  
+  ![스크린샷(11)](https://user-images.githubusercontent.com/55564114/147537601-c5e2ea95-1b69-485f-9fc3-7996bfb029ae.png)  
 
   ![스크린샷(12)](https://user-images.githubusercontent.com/55564114/147537808-21f1e701-687b-438a-8dc0-8b5f0fb47547.png)  
 
@@ -64,13 +64,18 @@ last_modified_at: 2021-12-28
     
   ![스크린샷(22)](https://user-images.githubusercontent.com/55564114/147539556-68ee396e-af0a-4526-87f8-7c5061e23826.png)  
     
-    ○ Standard 
-    ○ Custom
+    ○ Standard  
+      - 많은 사람들이 선택하는 설치 목록 
+    ○ Custom  
+      - 직접 설치 목록 고르기  
       
     저는 자세히 몰라서 **Standard** 로 했어요. ㅎㅎ  
 
   ![스크린샷(23)](https://user-images.githubusercontent.com/55564114/147539858-1052d704-0c06-439e-9025-396a9d344cc6.png)  
 
+    ○ Darcula  
+    ○ Light  
+      
     테마를 선택해주세요.  
 
   ![스크린샷(24)](https://user-images.githubusercontent.com/55564114/147539933-926d5d08-dbc6-42bd-8f89-83e529124715.png)  
@@ -78,7 +83,10 @@ last_modified_at: 2021-12-28
     
   ![스크린샷(25)](https://user-images.githubusercontent.com/55564114/147540350-b86710f1-57b1-4c8b-9c27-7b132dff8d5a.png)  
 
- 
+    설치가 완료되었습니다.  
+
+---
+
 # 4. JAVA 설치 하셨나요? 
 
 
