@@ -1,5 +1,5 @@
 ---
-title:  "[안드로이드스튜디오] "Failed to install the following Android SDK packages as some licences have not been accepted" 해결방법 "
+title:  "[안드로이드스튜디오] Failed to install the following Android SDK packages as some licences have not been accepted 해결방법 "
 excerpt: "Failed to install the following Android SDK packages as some licences have not been accepted 해결방법"
 
 categories:
