@@ -1,5 +1,5 @@
 ---
-title:  "[안드로이드스튜디오] ERROR: JAVA_HOME is set to an invalid directory: C:\Program Files\Java\jdk-17.0.1\bin Please set the JAVA_HOME variable in your environment to match the location of your Java installation. 해결방법 "
+title:  "[안드로이드스튜디오] ERROR: JAVA_HOME is set to an invalid directory 해결방법 "
 excerpt: "ERROR: JAVA_HOME is set to an invalid directory: C:\Program Files\Java\jdk-17.0.1\bin Please set the JAVA_HOME variable in your environment to match the location of your Java installation. 해결방법"
 
 categories:
