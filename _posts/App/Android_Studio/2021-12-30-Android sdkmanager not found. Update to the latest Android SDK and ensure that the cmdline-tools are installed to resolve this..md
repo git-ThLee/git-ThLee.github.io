@@ -53,7 +53,7 @@ last_modified_at: 2021-12-30
 
 Please set the JAVA_HOME variable in your environment to match the location of your Java installation.
 
-    ○ 제 블로그를 포스팅을 확인해주세요
+    ○ 제 블로그의 다른 포스팅을 확인해주세요
 
 
 ---
