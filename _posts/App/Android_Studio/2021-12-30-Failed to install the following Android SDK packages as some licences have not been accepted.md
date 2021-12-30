@@ -24,6 +24,8 @@ last_modified_at: 2021-12-30
           
         번역 : 일부 라이선스가 승인되지 않아 다음 Android SDK 패키지를 설치하지 못했습니다.  
 
+---
+
 # 2. 해결 방법
 
 ![스크린샷(50)](https://user-images.githubusercontent.com/55564114/147725695-ed6b5931-2a90-4f02-8cc0-72c21693a5b9.png)  
