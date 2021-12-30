@@ -24,7 +24,7 @@ last_modified_at: 2021-12-30
 
 ---
 
-# 2. 해결 방법
+# 2. 해결 방법 1
 
 ![스크린샷(78)](https://user-images.githubusercontent.com/55564114/147739181-84860633-fbab-4338-8920-d39461ea22e0.png)  
 
@@ -56,7 +56,15 @@ last_modified_at: 2021-12-30
 
 ---
 
+# 3. 해결 방법 2
+
+[https://github.com/flutter/flutter/issues/51712](https://github.com/flutter/flutter/issues/51712)에서 새로운 해결 방법이 있어서 따라해보았다  
+  
+[https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip](https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip) 파일을 다운로드
+
+    ○ 1) 위 파일을 다운로드 하고 압축 해제를 한다. (※참고 : tools 파일 들어있음)
+    ○ 2) C:\Users%User%\AppData\Local\Android\Sdk 폴더 안에 tools 파일 붙여넣기
 
 
-
+---
 
