@@ -76,7 +76,7 @@ last_modified_at: 2022-01-07
 3. 웹뷰어에서 전역변수(MBTI)에 맞는 사이트로 이동하기
 > ex)
 > 사이트 주소 
-> https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intj
+> [16Personalities](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intj)  
 > 주소의 "intj" 부분에 전역변수(MBTI)를 넣어주면 됨
 
 
