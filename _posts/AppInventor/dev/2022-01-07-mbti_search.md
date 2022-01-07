@@ -5,7 +5,7 @@ excerpt: "mbti 검색기를 만들어보기"
 categories:
   - AppInventor_dev
 tags:
-  - [MBTI]]
+  - [MBTI]
 
 toc: true
 toc_sticky: true
