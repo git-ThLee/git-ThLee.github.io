@@ -50,19 +50,19 @@ last_modified_at: 2022-01-07
 
 # 2. 블록코딩
 
-  - 눈덩이
+  - 눈덩이  
   ![스크린샷(127)](https://user-images.githubusercontent.com/55564114/148493864-8aa989fc-72ae-4ea2-a6b8-cea5d74f2fc3.png)  
 
-  - 눈사람 1
+  - 눈사람 1  
   ![스크린샷(128)](https://user-images.githubusercontent.com/55564114/148493925-3de71cb5-6303-42c3-a532-f4eb0e16342b.png)  
 
-  - 눈사람 2
+  - 눈사람 2  
   ![스크린샷(129)](https://user-images.githubusercontent.com/55564114/148493977-7098f1e7-1597-4dde-bb0f-7223fc438932.png)  
 
-  - 눈사람 3 
+  - 눈사람 3  
   ![스크린샷(130)](https://user-images.githubusercontent.com/55564114/148494059-76b13d04-faaa-4d45-93ae-84476d087b99.png)  
 
-  - 눈사람 4
+  - 눈사람 4  
   ![스크린샷(131)](https://user-images.githubusercontent.com/55564114/148494116-b2cd6367-fa87-4ec3-93ea-ca4e007312de.png)  
 
 ---
