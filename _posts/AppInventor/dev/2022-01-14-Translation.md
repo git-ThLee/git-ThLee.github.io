@@ -91,12 +91,12 @@ last_modified_at: 2022-01-14
 만약 영어,일본어,스페인어 외에 다른 언어가 해보고 싶으실 수도 있어요.  
 그럴 땐, [http://help.ads.microsoft.com/#apex/18/ko/10004/-1](http://help.ads.microsoft.com/#apex/18/ko/10004/-1)을 이용하시면 되요.  
 
-  사용법 
-    1. [http://help.ads.microsoft.com/#apex/18/ko/10004/-1](http://help.ads.microsoft.com/#apex/18/ko/10004/-1) 들어간다
-    2. 번역하고 싶은 언어를 Ctrl + F 를 이용해서 찾는다.
-    3. "언어코드" 에서 "코드" 부분의 영어를 사용해주시면 되요.
-    
-    ex) ctrl+F -> 불가리아어 입력 -> 언어코드 아래에 코드 확인 -> bg 를 리스트에 추가
+  사용법  
+    1. [http://help.ads.microsoft.com/#apex/18/ko/10004/-1](http://help.ads.microsoft.com/#apex/18/ko/10004/-1) 들어간다  
+    2. 번역하고 싶은 언어를 Ctrl + F 를 이용해서 찾는다.  
+    3. "언어코드" 에서 "코드" 부분의 영어를 사용해주시면 되요.  
+      
+    ex) ctrl+F -> 불가리아어 찾기 -> 언어코드 아래에 코드 확인 -> bg 를 리스트에 추가  
 
 궁금하신 부분은 댓글주시거나 메일 주시면 됩니다.🥰🥰  
 
