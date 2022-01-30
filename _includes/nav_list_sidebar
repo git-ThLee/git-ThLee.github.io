@@ -84,7 +84,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Blog_dev_2019" %}
-                        <li><a href="/categories/blog_dev_2019" class="">2019.09.01~2019.12.31 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/blog_dev_2019" class="">2019년도 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
