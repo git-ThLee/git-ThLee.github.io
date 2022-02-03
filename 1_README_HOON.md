@@ -34,9 +34,12 @@
         ┗ 이야기
             ○ 포스팅 카테고리 : Blog_story
             ○ _pages/categories : /categories/blog_story
-        ┗ 2019.09.01~2019.12.31 
+        ┗ 2019년도
             ○ 포스팅 카테고리 : Blog_dev_2019
             ○ _pages/categories : /categories/blog_dev_2019
+        ┗ 2020년도
+            ○ 포스팅 카테고리 : Blog_dev_2020
+            ○ _pages/categories : /categories/blog_dev_2020
 
 ----------------------------------------------------------------------------------------------------
 
