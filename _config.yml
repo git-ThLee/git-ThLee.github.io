@@ -22,14 +22,14 @@ subtitle                 : # site tagline that appears below site title in masth
 # 유저네임
 name                     : "훈깃 🌙"
 # 유저 네임 설명글
-description              : "Hoon-git의 깃허브 블로그"
+description              : "git-ThLee의 깃허브 블로그"
 # 웹 사이트 도메인 이름을 입력합니다 (자신의 도메인 이름을 추가하지 않았지만 GitHub 페이지에서 할당 한 도메인 이름을 직접 사용하는 경우 생략 가능)
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
 # 블로그의 URL：(http://yourusername.github.io/repository-name)
 # 하위 "/repository-name"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hoon-git/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "git-ThLee/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "훈깃 🌙"
+  name             : "git-ThLee 🌙"
   avatar           : "/assets/images/my_image_26.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
 
